@@ -1,0 +1,6 @@
+6/26/23, 16:42 - Jane Smith: Hi, is there any update on the assignment deadline?
+6/26/23, 16:43 - John Doe: I'm not sure, let me check with the professor.
+6/26/23, 16:44 - Jane Smith: Thank you, John. Please let me know as soon as you find out.
+6/26/23, 16:46 - Prof. Johnson: The assignment deadline has been extended by one week. The new deadline is July 3rd.
+6/26/23, 16:48 - John Doe: @Jane Smith, the assignment deadline has been extended to July 3rd.
+6/26/23, 16:49 - Jane Smith: Thank you, John and Prof. Johnson, for the update.
