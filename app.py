@@ -2,6 +2,7 @@ import pandas as pd
 import re
 from datetime import datetime as dt
 
+
 # Function to extract the day from the date
 def get_day(date):
     datetime_obj = dt.strptime(date, '%m/%d/%y')
